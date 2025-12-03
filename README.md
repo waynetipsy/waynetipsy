@@ -1,6 +1,6 @@
 - 👋 Hello!
 
-- I’m Ifeanyi an Android/Kotlin Developer on a quest to achieve more.
+- I’m Ifeanyi an Android/Kotlin Developer.
 
 I have proven success with developing applications with flutter and in my current position.
 
